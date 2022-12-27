@@ -1,0 +1,1 @@
+go run file.go filesession.go filewrapper.go main.go package.go command.go
